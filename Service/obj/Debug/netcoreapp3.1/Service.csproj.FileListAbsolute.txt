@@ -1,0 +1,11 @@
+D:\Documents\_ITLA\PROGRAMACION\PROGRAMACION 3\Módulo 3\AspNetCoreApp\Service\bin\Debug\netcoreapp3.1\Service.deps.json
+D:\Documents\_ITLA\PROGRAMACION\PROGRAMACION 3\Módulo 3\AspNetCoreApp\Service\bin\Debug\netcoreapp3.1\Service.dll
+D:\Documents\_ITLA\PROGRAMACION\PROGRAMACION 3\Módulo 3\AspNetCoreApp\Service\bin\Debug\netcoreapp3.1\Service.pdb
+D:\Documents\_ITLA\PROGRAMACION\PROGRAMACION 3\Módulo 3\AspNetCoreApp\Service\bin\Debug\netcoreapp3.1\Model.dll
+D:\Documents\_ITLA\PROGRAMACION\PROGRAMACION 3\Módulo 3\AspNetCoreApp\Service\bin\Debug\netcoreapp3.1\Model.pdb
+D:\Documents\_ITLA\PROGRAMACION\PROGRAMACION 3\Módulo 3\AspNetCoreApp\Service\obj\Debug\netcoreapp3.1\Service.csprojAssemblyReference.cache
+D:\Documents\_ITLA\PROGRAMACION\PROGRAMACION 3\Módulo 3\AspNetCoreApp\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfoInputs.cache
+D:\Documents\_ITLA\PROGRAMACION\PROGRAMACION 3\Módulo 3\AspNetCoreApp\Service\obj\Debug\netcoreapp3.1\Service.AssemblyInfo.cs
+D:\Documents\_ITLA\PROGRAMACION\PROGRAMACION 3\Módulo 3\AspNetCoreApp\Service\obj\Debug\netcoreapp3.1\Service.csproj.CopyComplete
+D:\Documents\_ITLA\PROGRAMACION\PROGRAMACION 3\Módulo 3\AspNetCoreApp\Service\obj\Debug\netcoreapp3.1\Service.dll
+D:\Documents\_ITLA\PROGRAMACION\PROGRAMACION 3\Módulo 3\AspNetCoreApp\Service\obj\Debug\netcoreapp3.1\Service.pdb
